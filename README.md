@@ -1,0 +1,2 @@
+# ubuntu1804_SSH
+raspi3にubuntu1804をimagを焼いてSSH起動した
